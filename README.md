@@ -1,2 +1,3 @@
-# Trainia
-The core of Trainia is a school management web site. However, it was specified to have resources which aid student athletes remain active during off season. Almost all documentation created in the development of this web site will he harbored on this repo.
+COSC 412 Group 2 Repository
+
+New Forked repo for Jonathan, MJ, and Tangwa
